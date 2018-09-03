@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">DengosApp</string>
+    <string name="q1_">1) Qual o nome do mosquito transmissor da dengue</string>
+    <string name="q2_">2) O mosquito da dengue Aedes aegypti que pica o homem é:</string>
+    <string name="question2_macho">Macho</string>
+    <string name="question2_femea">Fêmea</string>
+    <string name="q3_">3) Uma pessoa infectada pode passar a doença para outra através de:</string>
+    <string name="q3_a">O mosquito pica o doente e passa para outra pessoa</string>
+    <string name="q3_b">Água contaminada</string>
+    <string name="q3_c">Alimento contaminado</string>
+    <string name="q3_d">Uso de objetos pessoais do doente</string>
+    <string name="q4_">4) Animais domésticos, como cães e gatos, também podem ser infectados?</string>
+    <string name="q4_a">Não, o vírus da dengue atinge somente os primatas.</string>
+    <string name="q4_b">Sim, todos os mamíferos podem ser infectados</string>
+    <string name="q5_">5) Quais os primeiros sintomas da dengue?</string>
+    <string name="q5_a">Febre alta e mal-estar.</string>
+    <string name="q5_b">Cãibras</string>
+    <string name="q5_c">Dor de cabeça e na região atrás dos olhos</string>
+    <string name="q5_d">Queda de cabelo</string>
+    <string name="q6_">6) Qual das alternativas a seguir NÃO faz parte das ações de controle do mosquito?</string>
+    <string name="q6_a">Uso de larvicidas e inseticidas.</string>
+    <string name="q6_b">Uso de repelentes e mosquiteiros.</string>
+    <string name="q6_c">Reciclagem ou remoção de depósitos que podem acumular água.</string>
+    <string name="q6_d">Racionamento de água.</string>
+    <string name="q7_">7) Quando você está na rua, você joga lixo..</string>
+    <string name="q7_a">Somente na lixeira</string>
+    <string name="q7_b">em qualquer lugar quando não tem lixeira por perto.</string>
+    <string name="q7_c">somente em locais sujos.</string>
+    <string name="q7_d">no rio, vala ou mar, pois todo lixo é biodegradável.</string>
+
+    <string name="q8_">8) Com que periodicidade, você precisa trocar a água de um recipiente para prevenir a proliferação de mosquitos?</string>
+    <string name="q8_a">diariamente.</string>
+    <string name="q8_b">semanalmente.</string>
+    <string name="q8_c">mensalmente.</string>
+    <string name="q8_d">não tenho tempo para isso.</string>
+
+
+    <string name="q9_">9) Com relação a recipiente de água marque as atitudes que corretas</string>
+    <string name="q9_a">Caixas d\'água devem ficar tampadas</string>
+    <string name="q9_b">Se houver contamição por larvas deve-se jogar a água fora, lavar a caixa e repor com água limpa</string>
+    <string name="q9_c">No caso de recipentes pequenos deves jogar a água na terra, lavá-los e mater o deposito coberto ou emborcado</string>
+
+    <string name="q10_">10) De quem é a culpa da dengue?</string>
+    <string name="q10_a">do governo.</string>
+    <string name="q10_b">dos meus vizinhos.</string>
+    <string name="q10_c">do agente que nunca passa na minha casa.</string>
+    <string name="q10_d">a dengue é uma responsabilidade de todos.</string>
+    <string name="btn_answer">Responder Questões</string>
+    <string name="q1_resposta">Responda Aqui</string>
+    <string name="intro">Olá, Está cheguendo o verão e precisamos tomar cuidado para evitar a prolifereção do mosquito da dengue, faça o questionário na tela a seguir e saiba se você esta preparado</string>
+    <string name="image">Imagem da tela de introdução</string>
+    <string name="btn_intro">Começar</string>
+</resources>

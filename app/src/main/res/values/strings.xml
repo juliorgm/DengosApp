@@ -54,7 +54,7 @@
     <string name="context_voltar">Voltar</string>
     <string name="context_acerto">"Você acertou "</string>
     <string name="context_total_questoes">" de 10 questões"</string>
-    <string name="context_aedes_aegypti">aedes Aegypti</string>
+    <string name="context_aedes_aegypti">aedes aegypti</string>
     <string name="context_obrigatorio">Você precisa preencher este campo</string>
     <string name="context_erro_q1">Errado: o nome do mosquito que transmite a dengue é Aedes Aegypti</string>
     <string name="context_cbx_obrigatorio">Você precisa esolher uma das alternativas acima</string>

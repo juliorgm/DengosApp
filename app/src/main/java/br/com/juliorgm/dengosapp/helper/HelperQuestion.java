@@ -136,7 +136,7 @@ public class HelperQuestion {
     }
 
     private boolean answerQuestion1() {
-        String res = mEditQuestion1.getText().toString().trim();
+        String res = mEditQuestion1.getText().toString().trim().toLowerCase();
         if (res.equals(mContext.getString(R.string.context_aedes_aegypti))) {
             messageCorrectAnswer(mTxtAnswer1);
             return true;

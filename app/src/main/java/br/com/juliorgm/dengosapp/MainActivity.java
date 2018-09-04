@@ -4,8 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.RadioGroup;
-import android.widget.TextView;
+import android.widget.Button;
 
 import br.com.juliorgm.dengosapp.helper.HelperQuestion;
 
@@ -23,19 +22,17 @@ public class MainActivity extends AppCompatActivity {
 
         helperQuestion = new HelperQuestion(MainActivity.this);
 
+        final Button btnSendAnswers = findViewById(R.id.btnAnswer);
+        btnSendAnswers.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if(!helperQuestion.turnBack())
+                    helperQuestion.sendQuestions();
+                else{
+                    Intent i = new Intent(MainActivity.this, IntroActivity.class);
+                    startActivity(i);
+                    finish();
+                }
+            }
+        });
     }
-
-    public void sendAnswers(View view){
-        if(!helperQuestion.turnBack())
-            helperQuestion.sendQuestions();
-        else{
-            Intent i = new Intent(MainActivity.this, IntroActivity.class);
-            startActivity(i);
-            finish();
-        }
-
-    }
-
-
-
 }

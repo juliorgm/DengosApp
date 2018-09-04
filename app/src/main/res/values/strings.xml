@@ -34,7 +34,6 @@
     <string name="q8_c">mensalmente.</string>
     <string name="q8_d">não tenho tempo para isso.</string>
 
-
     <string name="q9_">9) Com relação a recipiente de água marque as atitudes que corretas</string>
     <string name="q9_a">Caixas d\'água devem ficar tampadas</string>
     <string name="q9_b">Se houver contamição por larvas deve-se jogar a água fora, lavar a caixa e repor com água limpa</string>
@@ -50,4 +49,28 @@
     <string name="intro">Olá, Está cheguendo o verão e precisamos tomar cuidado para evitar a prolifereção do mosquito da dengue, faça o questionário na tela a seguir e saiba se você esta preparado</string>
     <string name="image">Imagem da tela de introdução</string>
     <string name="btn_intro">Começar</string>
+
+    <string name="context_falta_responder">Verifique as questões que ainda não foram respondidas</string>
+    <string name="context_voltar">Voltar</string>
+    <string name="context_acerto">"Você acertou "</string>
+    <string name="context_total_questoes">" de 10 questões"</string>
+    <string name="context_aedes_aegypti">Aedes Aegypti</string>
+    <string name="context_obrigatorio">Você precisa preencher este campo</string>
+    <string name="context_erro_q1">Errado: o nome do mosquito que transmite a dengue é Aedes Aegypti</string>
+    <string name="context_cbx_obrigatorio">Você precisa esolher uma das alternativas acima</string>
+    <string name="context_valida_q5">Você precisa escolher pelo menos uma das alternativas</string>
+    <string name="context_certa_q5">Certo: Alguns dos sintomas da dengue são frebre alta, mal estar, dor de cabeça e na região dos olhos</string>
+    <string name="context_errada_q5">Errado:Os sintomas da dengue são frebre alta, mal estar, dor de cabeça e na região dos olhos</string>
+    <string name="context_certa_q9">Certo: Todas as alteranativas estão corretas</string>
+    <string name="context_errada_q9">Errada: todas as alternativas acima devem ser tomadas para evitar a proliferação das larvas do Aedes Aegypti</string>
+    <string name="context_correto">Correto</string>
+    <string name="context_errada_q2">Errada: Apenas as fêmeas transmitem o vírus</string>
+    <string name="context_errada_q3">Errada: O mosquito pica o doente e transmite a dengue para outras pessoas</string>
+    <string name="context_errada_q4">Errada: O vírus da dengue atinge somente primatas</string>
+    <string name="context_errada_q6">Errada: Racionamento de água não faz parte das ações de prevenção da dengue</string>
+    <string name="context_errada_q7">Errada: O lixo deve ser jogado somente na lixeira</string>
+    <string name="context_errada_q10">Errada: A dengue é responsabilidade de todos</string>
+    <string name="context_errada_q8">Errada: A água deve ser trocada diariamente</string>
+
+
 </resources>
